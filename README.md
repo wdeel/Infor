@@ -5,4 +5,4 @@ indicating how many occurences the number occurs in the list.  Otherwise,
 the number is already in the dictionary, and the number of occurences 
 (the value of the dictionary) is incremented by one.
 
-
+Ran with Python version 3.6.9 
