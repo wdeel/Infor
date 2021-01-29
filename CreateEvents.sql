@@ -1,8 +1,0 @@
-CREATE TABLE Events(
-    EventId INTEGER(10) NOT NULL,
-    ResourceID INTEGER(10) NOT NULL,
-    TYPE VARCHAR(30) NOT NULL,
-    StartedAt TIMESTAMP NOT NULL,
-    EndedAt TIMESTAMP NOT NULL,
-    PRIMARY KEY (EventId)
-);
